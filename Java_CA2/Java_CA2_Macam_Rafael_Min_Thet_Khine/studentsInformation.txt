@@ -1,0 +1,72 @@
+DIT/FT/2A/01
+{
+    name: Rafael
+    admin: p2340557
+    class: DIT/FT/2A/01
+    modules: {FED=B, FOP=A, FOC=C}
+}
+{
+    name: Kevin
+    admin: p6969420
+    class: DIT/FT/2A/01
+    modules: {FED=A, FOP=A, FOC=B}
+}
+{
+    name: Morbius
+    admin: p5570234
+    class: DIT/FT/2A/01
+    modules: {FED=B, FOP=A, FOC=C}
+}
+{
+    name: Harry
+    admin: p4206969
+    class: DIT/FT/2A/01
+    modules: {FED=A, FOP=A, FOC=B}
+}
+DIT/FT/2A/02
+{
+    name: Gabriel
+    admin: p6942069
+    class: DIT/FT/2A/02
+    modules: {FED=B, FOC=A}
+}
+{
+    name: Scott
+    admin: p9642069
+    class: DIT/FT/2A/02
+    modules: {FED=B, FOC=A}
+}
+DIT/FT/1A/02
+{
+    name: Kevin
+    admin: p2329622
+    class: DIT/FT/1A/02
+    modules: {}
+}
+{
+    name: Test
+    admin: p2322321
+    class: DIT/FT/1A/02
+    modules: {}
+}
+DIT/FT/01/01
+{
+    name: Name
+    admin: p1231232
+    class: DIT/FT/01/01
+    modules: {}
+}
+DIT/FT/1A/01
+{
+    name: Kevin
+    admin: p2323232
+    class: DIT/FT/1A/01
+    modules: {}
+}
+DIT/FT/5A/02
+{
+    name: MinThet khine
+    admin: p0000000
+    class: DIT/FT/5A/02
+    modules: {FOP=A}
+}
